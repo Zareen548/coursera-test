@@ -1,0 +1,146 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+	text-align: center;
+
+}
+
+body {
+	background-color:#DCDCDC;
+	margin: 0px;
+}
+
+p {
+	padding: 0px;
+	margin: 0;
+}
+
+.container {
+	border:none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px ;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px ;
+	background-color: #778899;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#chicken {
+	border: none;
+	text-align: center;
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 30%
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 10px;
+}
+
+#beef {
+	border: none;
+	text-align: center;
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 30%
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 10px;
+	}
+
+#sushi {
+	border: none;
+	text-align: center;
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 30%
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	color: black;
+	padding: 10px;
+}
+
+#chicken-div {
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+
+#beef-div {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 5px 5px;
+  color: #333300;
+  }
+
+#header-nav {
+  border:0;
+  background-color:#778899;
+  color: #333300;
+  border-top:  2px solid black;
+  border-bottom:  2px solid black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 0px;
+}
+
+.nav-header {
+  background-color: #333300;
+}
+
+.nav-brand {
+  color: black;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: black;
+}
+
+hr {
+  border-color: #333300;
+}
+
+.item {
+  color: black;
+  font-size: 1.2em;
+}
